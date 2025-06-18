@@ -7,7 +7,7 @@ from skimage.feature import hog
 app = Flask(__name__)
 
 # MODELİ YÜKLE
-MODEL_PATH = "complete_pso_model.pkl"  # Model dosya adı burada
+MODEL_PATH = "complete_abc_model.pkl"  # Model dosya adı burada
 model_data = joblib.load(MODEL_PATH)
 
 model = model_data["model"]
