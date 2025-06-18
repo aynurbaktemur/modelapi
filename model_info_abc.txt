@@ -1,0 +1,5 @@
+En İyi Algoritma: ABC
+ROC-AUC Skoru: 0.9954
+Accuracy: 0.9700
+Seçilen Özellik Sayısı: 4038
+Toplam Özellik Sayısı: 8100
